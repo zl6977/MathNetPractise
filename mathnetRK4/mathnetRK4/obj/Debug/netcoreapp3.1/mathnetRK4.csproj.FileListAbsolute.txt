@@ -1,0 +1,4 @@
+C:\Users\lianz\source\repos\mathnetRK4\mathnetRK4\obj\Debug\netcoreapp3.1\mathnetRK4.csprojAssemblyReference.cache
+C:\Users\lianz\source\repos\mathnetRK4\mathnetRK4\obj\Debug\netcoreapp3.1\mathnetRK4.AssemblyInfoInputs.cache
+C:\Users\lianz\source\repos\mathnetRK4\mathnetRK4\obj\Debug\netcoreapp3.1\mathnetRK4.AssemblyInfo.cs
+C:\Users\lianz\source\repos\mathnetRK4\mathnetRK4\obj\Debug\netcoreapp3.1\mathnetRK4.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mB2GtOsjb6ISzCMB8DMfBDTkP3Kg6nSHCvs8MVPdrU5Q/n4I2otXm3aOda6dsHgTPTv3Ru0p1tYxzuMJbWVVmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lianz\\source\\repos\\mathnetplot\\mathnetplot\\mathnetplot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lianz\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
+    "C:\\Users\\lianz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\lianz\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\lianz\\.nuget\\packages\\scottplot\\4.0.48\\scottplot.4.0.48.nupkg.sha512",
+    "C:\\Users\\lianz\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

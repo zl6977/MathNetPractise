@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lianz\\source\\repos\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj": {}
+    "C:\\GitRepo\\MathNetPractise\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lianz\\source\\repos\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj": {
+    "C:\\GitRepo\\MathNetPractise\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lianz\\source\\repos\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj",
+        "projectUniqueName": "C:\\GitRepo\\MathNetPractise\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj",
         "projectName": "mathnetRK4",
-        "projectPath": "C:\\Users\\lianz\\source\\repos\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj",
+        "projectPath": "C:\\GitRepo\\MathNetPractise\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj",
         "packagesPath": "C:\\Users\\lianz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lianz\\source\\repos\\mathnetRK4\\mathnetRK4\\obj\\",
+        "outputPath": "C:\\GitRepo\\MathNetPractise\\mathnetRK4\\mathnetRK4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lianz\\AppData\\Roaming\\NuGet\\NuGet.Config",

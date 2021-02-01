@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0zwvXTW/cC3EpNHrCWcSHxkThtLu8Nnp1BLbIxXTjABhrecIqd0OL1iBKVLnRPfSdoCA6banLPFdlvA8nbCaAA==",
+  "dgSpecHash": "DYLOkPJ3wefuml0SZQ93zr7D1wdbbHJ5TheVj6nypmwrbXYoH+xZhL4NtsuMBTo4khlD0VoORPITAyeePJhWOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lianz\\source\\repos\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj",
+  "projectFilePath": "C:\\GitRepo\\MathNetPractise\\mathnetRK4\\mathnetRK4\\mathnetRK4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lianz\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
     "C:\\Users\\lianz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

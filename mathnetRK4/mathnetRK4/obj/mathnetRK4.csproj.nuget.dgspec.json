@@ -47,6 +47,10 @@
             "NUnit": {
               "target": "Package",
               "version": "[3.13.1, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[4.0.48, )"
             }
           },
           "imports": [

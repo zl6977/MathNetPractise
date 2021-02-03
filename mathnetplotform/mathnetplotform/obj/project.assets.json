@@ -242,11 +242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lianz\\source\\repos\\mathnetplotform\\mathnetplotform\\mathnetplotform.csproj",
+      "projectUniqueName": "C:\\GitRepo\\MathNetPractise\\mathnetplotform\\mathnetplotform\\mathnetplotform.csproj",
       "projectName": "mathnetplotform",
-      "projectPath": "C:\\Users\\lianz\\source\\repos\\mathnetplotform\\mathnetplotform\\mathnetplotform.csproj",
+      "projectPath": "C:\\GitRepo\\MathNetPractise\\mathnetplotform\\mathnetplotform\\mathnetplotform.csproj",
       "packagesPath": "C:\\Users\\lianz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lianz\\source\\repos\\mathnetplotform\\mathnetplotform\\obj\\",
+      "outputPath": "C:\\GitRepo\\MathNetPractise\\mathnetplotform\\mathnetplotform\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lianz\\AppData\\Roaming\\NuGet\\NuGet.Config",

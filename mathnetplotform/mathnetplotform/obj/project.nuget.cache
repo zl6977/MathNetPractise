@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dYQFvr4bSGX6hjDR2IOL0jk8HpvOuCtkTUhCm6at3Wut8EmZ7bgO7KSTqonyFppq+Dvoi+o0/p6Ikb664u1d1w==",
+  "dgSpecHash": "riYpkyTR/yakSnuG+ggpnIf8UNZefZtUoisuX1muXeH4+Xs+NvEYfT7Sj5zMZG5G9T2eDThnFq7WCjEExAL6Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lianz\\source\\repos\\mathnetplotform\\mathnetplotform\\mathnetplotform.csproj",
+  "projectFilePath": "C:\\GitRepo\\MathNetPractise\\mathnetplotform\\mathnetplotform\\mathnetplotform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lianz\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
     "C:\\Users\\lianz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

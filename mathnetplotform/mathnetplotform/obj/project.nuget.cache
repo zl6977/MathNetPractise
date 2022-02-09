@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "riYpkyTR/yakSnuG+ggpnIf8UNZefZtUoisuX1muXeH4+Xs+NvEYfT7Sj5zMZG5G9T2eDThnFq7WCjEExAL6Nw==",
+  "dgSpecHash": "ekFHXg/B3ZlhTK6WpNDrdhtKomn3I5PmAWt9LXGfW/I7Chys0cJjZh2McuVY+yCwrO6uP/5K0mof8n28A7A3xA==",
   "success": true,
   "projectFilePath": "C:\\GitRepo\\MathNetPractise\\mathnetplotform\\mathnetplotform\\mathnetplotform.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,10 @@
     "C:\\Users\\lianz\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\lianz\\.nuget\\packages\\scottplot\\4.0.48\\scottplot.4.0.48.nupkg.sha512",
     "C:\\Users\\lianz\\.nuget\\packages\\scottplot.winforms\\4.0.48\\scottplot.winforms.4.0.48.nupkg.sha512",
-    "C:\\Users\\lianz\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+    "C:\\Users\\lianz\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\lianz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\lianz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lianz\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

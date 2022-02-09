@@ -35,4 +35,5 @@ C:\GitRepo\MathNetPractise\mathnetplotform\mathnetplotform\obj\Debug\netcoreapp3
 C:\GitRepo\MathNetPractise\mathnetplotform\mathnetplotform\obj\Debug\netcoreapp3.1\mathnetplotform.dll
 C:\GitRepo\MathNetPractise\mathnetplotform\mathnetplotform\obj\Debug\netcoreapp3.1\mathnetplotform.pdb
 C:\GitRepo\MathNetPractise\mathnetplotform\mathnetplotform\obj\Debug\netcoreapp3.1\mathnetplotform.genruntimeconfig.cache
-C:\GitRepo\MathNetPractise\mathnetplotform\mathnetplotform\obj\Debug\netcoreapp3.1\mathnetplotform.csprojAssemblyReference.cache
+C:\GitRepo\MathNetPractise\mathnetplotform\mathnetplotform\obj\Debug\netcoreapp3.1\mathnetplotform.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepo\MathNetPractise\mathnetplotform\mathnetplotform\obj\Debug\netcoreapp3.1\mathnetplotform.csproj.AssemblyReference.cache

@@ -51,11 +51,11 @@ for xIn in xintpl:
     yintpl.append(function(xIn))
 
 plt.figure()
-plt.plot(x, y, "x")
+plt.plot(x, y)
 plt.plot(x, dy)
 plt.plot(xintpl, yintpl)
 
-x_cur = 0.1
+x_cur = 0.04
 iterFlag = True
 count = 0
 while (count < 1000) and iterFlag:
